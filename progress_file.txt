@@ -1,0 +1,697 @@
+Job 8 is terminated abnormally
+
+----------------------------------------------------
+Job Id:  8(DEC)
+
+The part of partition occupied by job
+Input lines  
+Error Message:  Invalid hex format
+Job termination:  Abnormal Termination
+----------------------------------------------------
+---------------------SNAPSHOT----------------------------
+Current job executing  1
+Present block queue :[]
+Present ready queue :[2, 3, 4, 5, 6, 7]
+---------------------------------------------------------
+Job 1 has been initiated
+Job 1 is going to read operation
+Job 2 has been initiated
+Job 2 is going to read operation
+Job 3 has been initiated
+Job 3 is going to read operation
+Job 4 has been initiated
+Job 4 is going to read operation
+Job 5 has been initiated
+Job 5 is going to read operation
+Job 6 has been initiated
+Job 6 is going to read operation
+Job 7 has been initiated
+Job 7 is going to read operation
+Job 1 is going to read operation
+Job 2 is going to write operation
+Job 3 is going to read operation
+Job 4 is going to write operation
+Job 5 is going to write operation
+Job 6 is going to write operation
+Job 7 is going to read operation
+Job 1 is going to read operation
+Job 2 is going to write operation
+Job 3 is going to read operation
+Job 4 is terminated
+
+----------------------------------------------------
+Job Id:  4(DEC)
+
+The part of partition occupied by job
+0020	word0309	word0705	word0207	word0403	word0640	word0204	word0439	word0302	
+0028	word0620	word0610	word0028	word0000	word000A	word0003	word0028	
+Input lines :
+		A (HEX)
+		3 (HEX)
+
+Output lines :
+		A (HEX)
+		3 (HEX)
+		28 (HEX)
+Partition number and size occupied : 2 (DEC)  17 (DEC)
+				  15 (DEC)
+Time the job entered the System:  0 (HEX)
+Time the job is leaving the System:  1A7 (HEX)
+Execution time :  1 (DEC)
+Time spent doing IO:  0 (DEC)
+Total run time:  1 (DEC)
+Job termination:  Normal Termination
+----------------------------------------------------
+Job 5 is going to write operation
+Job 6 is going to write operation
+Job 7 is going to read operation
+Job 1 is going to read operation
+Job 2 is terminated
+
+----------------------------------------------------
+Job Id:  2(DEC)
+
+The part of partition occupied by job
+0000	word0640	word0211	word0212	word0F10	word040A	word030E	word010E	word020C	
+0008	word030C	word010C	word0F30	word0402	word0208	word0437	word0304	word0384	
+0010	word0620	word06A0	word0610	word000E	word0069	word0001	word0FFF	word000E	
+0018	word0005	word0001	word0003	word000E	word0069	
+Input lines :
+		E (HEX)
+		5 (HEX)
+		1 (HEX)
+		3 (HEX)
+
+Output lines :
+		5 (HEX)
+		1 (HEX)
+		3 (HEX)
+		E (HEX)
+		69 (HEX)
+Partition number and size occupied : 1 (DEC)  32 (DEC)
+				  29 (DEC)
+Time the job entered the System:  0 (HEX)
+Time the job is leaving the System:  1F9 (HEX)
+Execution time :  1 (DEC)
+Time spent doing IO:  0 (DEC)
+Total run time:  1 (DEC)
+Job termination:  Normal Termination
+----------------------------------------------------
+Job 3 is going to write operation
+Job 5 is terminated
+
+----------------------------------------------------
+Job Id:  5(DEC)
+
+The part of partition occupied by job
+00c0	word0640	word0213	word000F	word020E	word0310	word000D	word0703	word0703	
+00c8	word020A	word030B	word0009	word0705	word0705	word0105	word0103	word0206	
+00d0	word0206	word0407	word0FD4	word00F2	word0F00	word0024	word06C4	word0E76	
+00d8	word0000	word03BB	word0790	word07A0	word01B9	word0FD0	word040C	word0FC0	
+00e0	word0405	word03B3	word06A0	word03B3	word06A0	word0610	word03AE	word06A0	
+00e8	word03AF	word06A0	word0610	word03AA	word01AA	word02A8	word042A	word0024	
+00f0	word001C	word0024	word0000	
+Input lines :
+		24 (HEX)
+		1C (HEX)
+
+Output lines :
+		24 (HEX)
+		0 (HEX)
+Partition number and size occupied : 5 (DEC)  51 (DEC)
+				  51 (DEC)
+Time the job entered the System:  0 (HEX)
+Time the job is leaving the System:  212 (HEX)
+Execution time :  1 (DEC)
+Time spent doing IO:  0 (DEC)
+Total run time:  1 (DEC)
+Job termination:  Normal Termination
+----------------------------------------------------
+Job 11 is terminated abnormally
+
+----------------------------------------------------
+Job Id:  11(DEC)
+
+The part of partition occupied by job
+Input lines  
+Error Message:  Missing loader format and input lines
+Job termination:  Abnormal Termination
+----------------------------------------------------
+Job 12 is terminated abnormally
+
+----------------------------------------------------
+Job Id:  12(DEC)
+
+The part of partition occupied by job
+Input lines  
+Error Message:  Invalid hex format
+Job termination:  Abnormal Termination
+----------------------------------------------------
+Job 6 is going to write operation
+Job 7 is going to read operation
+Job 1 is going to read operation
+Job 10 has been initiated
+Job 10 is going to read operation
+Job 3 is terminated
+
+----------------------------------------------------
+Job Id:  3(DEC)
+
+The part of partition occupied by job
+0080	word0640	word021C	word0640	word021B	word0710	word0720	word021A	word0640	
+0088	word0217	word0710	word0720	word0216	word0311	word0113	word0F50	word0407	
+0090	word0400	word038C	word030B	word010E	word0F50	word038A	word0405	word0387	
+0098	word0306	word0108	word0F50	word0384	word06A0	word0610	word000F	word0002	
+00a0	word0000	word0FFE	word0000	word000F	word0002	word0000	word0003	word0005	
+00a8	word000F	
+Input lines :
+		F (HEX)
+		2 (HEX)
+		0 (HEX)
+		3 (HEX)
+		5 (HEX)
+
+Output lines :
+		F (HEX)
+Partition number and size occupied : 4 (DEC)  41 (DEC)
+				  41 (DEC)
+Time the job entered the System:  0 (HEX)
+Time the job is leaving the System:  267 (HEX)
+Execution time :  1 (DEC)
+Time spent doing IO:  0 (DEC)
+Total run time:  1 (DEC)
+Job termination:  Normal Termination
+----------------------------------------------------
+Job 6 is going to write operation
+Job 7 is going to read operation
+Job 1 is going to write operation
+Job 10 is going to write operation
+Job 6 is going to write operation
+Job 7 is terminated
+
+----------------------------------------------------
+Job Id:  7(DEC)
+
+The part of partition occupied by job
+0180	word0054	word0F80	word0057	word0004	word0FFF	word0FFF	word0640	word0F50	
+0188	word0409	word03B8	word07A0	word02B6	word0A35	word03B5	word07A0	word02B3	
+0190	word0723	word0330	word020A	word0005	word0001	word0007	word0008	word0208	
+0198	word0435	word0207	word0303	word0203	word040A	word0003	word060F	word0410	
+01a0	word0613	word072D	word072E	word0610	word0610	word0610	word0FFF	word0335	
+01a8	word013C	word0F10	word041A	word0231	word03B2	word0610	word01B7	word0FD0	
+01b0	word0426	word02AE	word0B2E	word0710	word092D	word0F20	word0406	word0B29	
+01b8	word022C	word0B28	word0A26	word0329	word0A25	word0323	word0720	word0221	
+01c0	word0720	word0220	word042A	word0000	word0003	word0FFF	word0BBC	word02BB	
+01c8	word0BBB	word0F90	word0610	word0B37	word0620	word0335	word0720	word0233	
+01d0	word01B4	word0437	word0FFF	word0FFF	word0000	word0000	word0000	word0000	
+01d8	word0005	word0001	word0007	word0008	word0FFC	
+Input lines :
+		5 (HEX)
+		1 (HEX)
+		7 (HEX)
+		8 (HEX)
+		FFC (HEX)
+
+Output lines :
+		1 (HEX)
+		7 (HEX)
+		8 (HEX)
+		FFC (HEX)
+Partition number and size occupied : 7 (DEC)  97 (DEC)
+				  93 (DEC)
+Time the job entered the System:  0 (HEX)
+Time the job is leaving the System:  55A (HEX)
+Execution time :  639 (DEC)
+Time spent doing IO:  0 (DEC)
+Total run time:  639 (DEC)
+Warning Message:  Trace bit not specified
+Job termination:  Normal Termination
+----------------------------------------------------
+Job 1 is going to write operation
+Job 10 is going to write operation
+Job 14 has been initiated
+Job 14 is going to read operation
+Job 15 has been initiated
+Job 15 is going to read operation
+Job 6 is going to write operation
+Job 1 is terminated
+
+----------------------------------------------------
+Job Id:  1(DEC)
+
+The part of partition occupied by job
+0040	word06C0	word0F90	word0610	word0F70	word0004	word02BE	word0790	word07A0	
+0048	word0281	word0FF0	word0FFC	word0640	word0205	word0206	word07C0	word07A0	
+0050	word0784	word0FF0	word0000	word0FF0	word000A	word029A	word0319	word0132	
+0058	word0F60	word0415	word0640	word021A	word0710	word0720	word0133	word0F10	
+0060	word0403	word0314	word022F	word0408	word0311	word0710	word0720	word012C	
+0068	word0F20	word0402	word030B	word0228	word07A0	word0282	word0427	word0FF0	
+0070	word0005	word0320	word0620	word0320	word0620	word0610	word0007	word0004	
+0078	word000A	word0000	word0001	word0007	word0000	word000A	
+Input lines :
+		4 (HEX)
+		A (HEX)
+		0 (HEX)
+		1 (HEX)
+		7 (HEX)
+
+Output lines :
+		7 (HEX)
+		0 (HEX)
+		A (HEX)
+Partition number and size occupied : 3 (DEC)  63 (DEC)
+				  62 (DEC)
+Time the job entered the System:  0 (HEX)
+Time the job is leaving the System:  5AD (HEX)
+Execution time :  1 (DEC)
+Time spent doing IO:  0 (DEC)
+Total run time:  1 (DEC)
+Job termination:  Normal Termination
+----------------------------------------------------
+Job 10 is going to write operation
+Job 14 is going to read operation
+Job 15 is going to write operation
+Job 16 has been initiated
+Job 16 is going to read operation
+Job 6 is going to write operation
+Job 10 is going to write operation
+Job 14 is going to write operation
+Job 15 is going to write operation
+Job 16 is going to write operation
+Job 6 is going to write operation
+Job 10 is going to write operation
+Job 14 is terminated
+
+----------------------------------------------------
+Job Id:  14(DEC)
+
+The part of partition occupied by job
+0080	word0217	word0315	word0710	word0720	word0111	word0C12	word0640	word020E	
+0088	word0640	word020D	word0F30	word041F	word000C	word0F40	word041C	word0306	
+0090	word0F30	word0419	word0006	word0F40	word0416	word0406	word000A	word0001	
+0098	word0000	word0800	word0525	word0409	word0523	word003B	word0F30	word0404	
+00a0	word03B6	word0334	word0234	word02B2	word0435	word0230	word03AF	word032F	
+00a8	word0FB0	word0402	word0431	word0302	word0620	word0610	word0FFF	word000A	
+00b0	word0001	word0007	word0FFF	
+Input lines :
+		A (HEX)
+		1 (HEX)
+		7 (HEX)
+
+Output lines :
+		610 (HEX)
+		FFF (HEX)
+		A (HEX)
+		1 (HEX)
+		7 (HEX)
+		FFF (HEX)
+Partition number and size occupied : 4 (DEC)  56 (DEC)
+				  51 (DEC)
+Time the job entered the System:  55A (HEX)
+Time the job is leaving the System:  6CC (HEX)
+Execution time :  1 (DEC)
+Time spent doing IO:  0 (DEC)
+Total run time:  1 (DEC)
+Job termination:  Normal Termination
+----------------------------------------------------
+Job 15 is going to write operation
+Job 16 is going to write operation
+Job 6 is going to write operation
+---------------------SNAPSHOT----------------------------
+Current job executing  17
+Present block queue :[6]
+Present ready queue :[10, 15, 16]
+---------------------------------------------------------
+Job 17 has been initiated
+Job 17 is going to read operation
+Job 10 is going to write operation
+Job 15 is going to write operation
+Job 16 is terminated
+
+----------------------------------------------------
+Job Id:  16(DEC)
+
+The part of partition occupied by job
+0040	word0640	word0213	word000F	word020E	word0310	word000D	word0703	word0703	
+0048	word020A	word030B	word0009	word0705	word0705	word0105	word0103	word0206	
+0050	word0206	word0407	word0FD3	word00F2	word0F00	word0023	word071E	word0E85	
+0058	word0000	word03BB	word0790	word07A0	word01B9	word0FD0	word040C	word0FC0	
+0060	word0405	word03B3	word06A0	word03B3	word06A0	word0610	word03AE	word06A0	
+0068	word03AF	word06A0	word0610	word03AA	word01AA	word02A8	word042A	word0023	
+0070	word0023	word0000	
+Input lines :
+		23 (HEX)
+
+Output lines :
+		23 (HEX)
+		23 (HEX)
+		0 (HEX)
+Partition number and size occupied : 3 (DEC)  51 (DEC)
+				  50 (DEC)
+Time the job entered the System:  5AD (HEX)
+Time the job is leaving the System:  744 (HEX)
+Execution time :  1 (DEC)
+Time spent doing IO:  0 (DEC)
+Total run time:  1 (DEC)
+Job termination:  Normal Termination
+----------------------------------------------------
+Job 6 is going to write operation
+Job 17 is going to read operation
+Job 10 is going to write operation
+Job 18 has been initiated
+Job 18 is going to read operation
+Job 15 is going to write operation
+Job 6 is going to write operation
+Job 17 is going to read operation
+Job 10 is going to write operation
+Job 18 is going to write operation
+Job 15 is going to write operation
+Job 6 is going to write operation
+Job 17 is going to write operation
+Job 10 is going to write operation
+Job 18 is going to write operation
+Job 15 is going to write operation
+Job 6 is terminated
+
+----------------------------------------------------
+Job Id:  6(DEC)
+
+The part of partition occupied by job
+0100	word0640	word0217	word0316	word0014	word0F30	word0403	word0315	word0620	
+0108	word0402	word0313	word0620	word030C	word0702	word020A	word030C	word010A	
+0110	word020A	word0F40	word042F	word0610	word0000	word0000	word0000	word0000	
+0118	word0000	word001C	word0FFF	word0000	word0001	word0000	word0000	word0000	
+0120	word001C	word0001	word0001	word0001	word0001	word0001	word0001	word0001	
+0128	word0001	word0001	word0001	word0001	word0001	
+Input lines :
+		1C (HEX)
+
+Output lines :
+		0 (HEX)
+		1C (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+Partition number and size occupied : 6 (DEC)  47 (DEC)
+				  45 (DEC)
+Time the job entered the System:  0 (HEX)
+Time the job is leaving the System:  8A0 (HEX)
+Execution time :  9 (DEC)
+Time spent doing IO:  0 (DEC)
+Total run time:  9 (DEC)
+Job termination:  Normal Termination
+----------------------------------------------------
+Job 20 is terminated abnormally
+
+----------------------------------------------------
+Job Id:  20(DEC)
+
+The part of partition occupied by job
+Input lines  
+Error Message:  Invalid hex format
+Job termination:  Abnormal Termination
+----------------------------------------------------
+Job 17 is terminated
+
+----------------------------------------------------
+Job Id:  17(DEC)
+
+The part of partition occupied by job
+0080	word0640	word0217	word0640	word0216	word0640	word0215	word0313	word0112	
+0088	word0214	word030F	word0111	word0F30	word0403	word018D	word010D	word043B	
+0090	word018C	word0740	word0106	word0188	word0FC0	word043C	word0702	word0620	
+0098	word0610	word0003	word0001	word0002	word0FFF	word0002	word0003	word0001	
+00a0	word0002	word0009	word0009	
+Input lines :
+		3 (HEX)
+		1 (HEX)
+		2 (HEX)
+		9 (HEX)
+
+Output lines :
+		9 (HEX)
+		9 (HEX)
+Partition number and size occupied : 4 (DEC)  36 (DEC)
+				  35 (DEC)
+Time the job entered the System:  6CC (HEX)
+Time the job is leaving the System:  8A1 (HEX)
+Execution time :  1 (DEC)
+Time spent doing IO:  0 (DEC)
+Total run time:  1 (DEC)
+Job termination:  Normal Termination
+----------------------------------------------------
+Job 10 is going to write operation
+Job 18 is going to write operation
+Job 19 has been initiated
+Job 19 is going to read operation
+Job 15 is going to write operation
+Job 10 is going to write operation
+Job 18 is going to write operation
+Job 19 is going to write operation
+Job 15 is going to write operation
+Job 10 is going to write operation
+Job 18 is going to write operation
+Job 19 is going to write operation
+Job 15 is going to write operation
+Job 10 is terminated
+
+----------------------------------------------------
+Job Id:  10(DEC)
+
+The part of partition occupied by job
+00c0	word0640	word0217	word0316	word0014	word0F30	word0403	word0315	word0620	
+00c8	word0402	word0313	word0620	word030C	word0702	word020A	word030C	word010A	
+00d0	word020A	word0F40	word042F	word0610	word0000	word0000	word0000	word0000	
+00d8	word0000	word000D	word0FFF	word0000	word0001	word0000	word0000	word0000	
+00e0	word000D	word0001	word0001	word0001	word0001	word0001	word0001	word0001	
+00e8	word0001	word0001	word0001	word0001	word0001	
+Input lines :
+		D (HEX)
+
+Output lines :
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+Partition number and size occupied : 5 (DEC)  45 (DEC)
+				  45 (DEC)
+Time the job entered the System:  212 (HEX)
+Time the job is leaving the System:  9B9 (HEX)
+Execution time :  9 (DEC)
+Time spent doing IO:  0 (DEC)
+Total run time:  9 (DEC)
+Job termination:  Normal Termination
+----------------------------------------------------
+Job 18 is terminated
+
+----------------------------------------------------
+Job Id:  18(DEC)
+
+The part of partition occupied by job
+0040	word0640	word0F10	word0417	word0217	word0319	word0620	word0720	word0216	
+0048	word0316	word0720	word0214	word0710	word0720	word010D	word0F10	word040A	
+0050	word030D	word0620	word0309	word0109	word0209	word0306	word0206	word0306	
+0058	word0203	word042E	word0610	word0005	word0005	word0003	word0005	word0005	
+0060	word0005	word0002	word0000	word0001	word0001	word0002	word0003	
+Input lines :
+		5 (HEX)
+		2 (HEX)
+
+Output lines :
+		5 (HEX)
+		2 (HEX)
+		0 (HEX)
+		1 (HEX)
+		1 (HEX)
+		2 (HEX)
+		3 (HEX)
+Partition number and size occupied : 3 (DEC)  41 (DEC)
+				  39 (DEC)
+Time the job entered the System:  744 (HEX)
+Time the job is leaving the System:  9CA (HEX)
+Execution time :  17 (DEC)
+Time spent doing IO:  0 (DEC)
+Total run time:  17 (DEC)
+Job termination:  Normal Termination
+----------------------------------------------------
+Job 19 is going to write operation
+Job 22 has been initiated
+Job 22 is going to read operation
+Job 23 has been initiated
+Job 23 is going to read operation
+Job 24 has been initiated
+Job 24 is going to read operation
+Job 15 is going to write operation
+Job 19 is going to write operation
+Job 22 is going to read operation
+Job 23 is going to write operation
+Job 24 is going to write operation
+Job 15 is going to write operation
+Job 19 is going to write operation
+Job 22 is going to write operation
+Job 23 is going to write operation
+Job 24 is going to write operation
+Job 15 is terminated
+
+----------------------------------------------------
+Job Id:  15(DEC)
+
+The part of partition occupied by job
+0180	word0640	word0217	word0316	word0014	word0F30	word0403	word0315	word0620	
+0188	word0402	word0313	word0620	word030C	word0702	word020A	word030C	word010A	
+0190	word020A	word0F40	word042F	word0610	word0000	word0000	word0000	word0000	
+0198	word0000	word0004	word0FFF	word0000	word0001	word0000	word0000	word0000	
+01a0	word0004	word0002	word0001	word0001	word0001	word0001	word0001	word0001	
+01a8	word0001	word0001	word0001	word0001	word0001	word0001	
+Input lines :
+		4 (HEX)
+		2 (HEX)
+
+Output lines :
+		0 (HEX)
+		4 (HEX)
+		2 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+		1 (HEX)
+Partition number and size occupied : 7 (DEC)  49 (DEC)
+				  46 (DEC)
+Time the job entered the System:  55A (HEX)
+Time the job is leaving the System:  B1C (HEX)
+Execution time :  9 (DEC)
+Time spent doing IO:  0 (DEC)
+Total run time:  9 (DEC)
+Job termination:  Normal Termination
+----------------------------------------------------
+Job 19 is going to write operation
+Job 22 is terminated
+
+----------------------------------------------------
+Job Id:  22(DEC)
+
+The part of partition occupied by job
+0080	word0217	word0315	word0710	word0720	word0111	word0C12	word0640	word020E	
+0088	word0640	word020D	word0F30	word041F	word000C	word0F40	word041C	word0306	
+0090	word0F30	word0419	word0006	word0F40	word0416	word0406	word000A	word0001	
+0098	word0000	word0800	word0525	word0409	word0523	word003B	word0F30	word0404	
+00a0	word03B6	word0334	word0234	word02B2	word0435	word0230	word03AF	word032F	
+00a8	word0FB0	word0402	word0431	word0302	word0620	word0610	word0FFF	word000A	
+00b0	word0001	word0007	word0FFF	
+Input lines :
+		A (HEX)
+		1 (HEX)
+		7 (HEX)
+
+Output lines :
+		610 (HEX)
+		FFF (HEX)
+		A (HEX)
+		1 (HEX)
+		7 (HEX)
+		FFF (HEX)
+Partition number and size occupied : 4 (DEC)  56 (DEC)
+				  51 (DEC)
+Time the job entered the System:  9B9 (HEX)
+Time the job is leaving the System:  B38 (HEX)
+Execution time :  1 (DEC)
+Time spent doing IO:  0 (DEC)
+Total run time:  1 (DEC)
+Job termination:  Normal Termination
+----------------------------------------------------
+Job 23 is going to write operation
+Job 25 has been initiated
+Job 25 is going to read operation
+Job 24 is terminated
+
+----------------------------------------------------
+Job Id:  24(DEC)
+
+The part of partition occupied by job
+0040	word0640	word0213	word000F	word020E	word0310	word000D	word0703	word0703	
+0048	word020A	word030B	word0009	word0705	word0705	word0105	word0103	word0206	
+0050	word0206	word0407	word0FD3	word00F2	word0F00	word0023	word071E	word0E85	
+0058	word0000	word03BB	word0790	word07A0	word01B9	word0FD0	word040C	word0FC0	
+0060	word0405	word03B3	word06A0	word03B3	word06A0	word0610	word03AE	word06A0	
+0068	word03AF	word06A0	word0610	word03AA	word01AA	word02A8	word042A	word0023	
+0070	word0023	word0000	
+Input lines :
+		23 (HEX)
+
+Output lines :
+		23 (HEX)
+		23 (HEX)
+		0 (HEX)
+Partition number and size occupied : 3 (DEC)  51 (DEC)
+				  50 (DEC)
+Time the job entered the System:  9CA (HEX)
+Time the job is leaving the System:  B5C (HEX)
+Execution time :  1 (DEC)
+Time spent doing IO:  0 (DEC)
+Total run time:  1 (DEC)
+Job termination:  Normal Termination
+----------------------------------------------------
+Job 26 has been initiated
+Job 26 is going to read operation
+Job 19 is going to write operation
+Job 23 is going to write operation
+Job 27 has been initiated
+Job 27 is going to read operation
+Job 28 has been initiated
+Job 28 is going to read operation
+Job 25 is going to read operation
+Job 26 is going to write operation
+Job 19 is going to write operation
+Job 23 is going to write operation
+Job 27 is going to write operation
+Job 28 is going to read operation
+Job 25 is going to read operation
+Job 26 is going to write operation
+Job 19 is going to write operation
+Job 23 is going to write operation
+Job 27 is going to write operation
+Job 28 is going to write operation
+Job 25 is going to write operation
+Job 26 is going to write operation
+Job 19 is going to write operation
+Job 23 is going to write operation
+Job 27 is going to write operation
+
+----------------------------------------------------
+-------------------STATISTICS-----------------------
+Current value of Clock : d41 (HEX)
+Mean user job RUN time : 79.0
+Mean user job EXECUTION time : 45.0
+Mean user job IO time : 34.0
+Mean user job time in the SYSTEM : 528.0
+Total CPU idle time : 1418
+Number of Normal Terminations : 21
+Number of Abnormal Terminations : 4
+Total time lost due to abnormally terminated jobs : 0
+Total time lost due to partial processing of inifinite loops : 0
+IDs of jobs considered infinite : []
